@@ -1,6 +1,4 @@
----
-
-# Street Management System: Vehicle Speed Tracking and Smart Street Lighting
+Street Management System: Vehicle Speed Tracking and Smart Street Lighting
 
 ## Overview
 
@@ -11,7 +9,6 @@ This project implements a Smart Street Management System with two major componen
 
 The goal is to automate street lighting and detect over-speeding vehicles with high accuracy.
 
----
 
 ## Smart Street Lighting
 
