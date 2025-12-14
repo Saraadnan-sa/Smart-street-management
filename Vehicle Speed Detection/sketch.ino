@@ -10,8 +10,8 @@ char pass[] = "";                 // Network password
 WiFiClient client;
 
 // ThingSpeak channel details
-unsigned long channelNum =3194154;               // Channel number taken from cloud
-const char *API_Key = "6R6NTAPNXEWMAHKI";        // WriteAPI key of cloud
+unsigned long channelNum = channel_number;               // Channel number taken from cloud
+const char *API_Key = "your_api_key";        // WriteAPI key of cloud
 
 int timer1;
 int timer2;

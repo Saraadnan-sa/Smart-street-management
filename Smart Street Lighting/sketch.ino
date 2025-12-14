@@ -10,8 +10,8 @@ char pass[] = "";            // Network password
 WiFiClient client;
 
 // ThingSpeak channel details
-unsigned long channelNum = 3194072; // Channel number taken from the cloud
-const char *API_Key = "LPDK6VMQM64XQ2MM";
+unsigned long channelNum = channel_number;               // Channel number taken from cloud
+const char *API_Key = "your_api_key";   
 // Smart Street lighting
 // Pins for PIR sensors
 const int pirSensorPin1 = 35;
